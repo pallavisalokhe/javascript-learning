@@ -11,7 +11,8 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 ## Variables
 - for declaring variable use var,let,const
 ## Conditional
-logical operator(OR=||,and=&&,not=!)
-If statement is evaluate when condition is true otherwise it is not executing 
-else if statement 
-
+-logical operator(OR=||,and=&&,not=!)
+-If statement is evaluate when condition is true otherwise it is not executing 
+-else statement is executing when if condition is fail
+-elseif clause consist many else if conditions 
+-Falsy values include false, 0, empty strings, null undefined, and NaN. All other values are truthy
