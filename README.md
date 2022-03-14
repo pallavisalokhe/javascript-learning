@@ -10,5 +10,8 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - javascript supports arithmetic(+,-,*,/,%) and assignment operato(+=,-=,*=,/=)
 ## Variables
 - for declaring variable use var,let,const
-
+## Conditional
+logical operator(OR=||,and=&&,not=!)
+If statement is evaluate when condition is true otherwise it is not executing 
+else if statement 
 
