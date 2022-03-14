@@ -8,6 +8,7 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - math.floor() print largest integer
 - for single line use // and multiple line use /* */
 - javascript supports arithmetic(+,-,*,/,%) and assignment operato(+=,-=,*=,/=)
+## Variables
 - for declaring variable use var,let,const
 
-## Variables
+
