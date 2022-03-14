@@ -16,4 +16,5 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - else statement is executing when if condition is fail
 - elseif clause consist many else if conditions 
 - Falsy values include false, 0, empty strings, null undefined, and NaN. All other values are truthy
-- 
+## Functions
+
