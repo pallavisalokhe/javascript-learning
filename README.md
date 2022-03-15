@@ -8,6 +8,8 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - math.floor() print largest integer
 - for single line use // and multiple line use /* */
 - javascript supports arithmetic(+,-,*,/,%) and assignment operato(+=,-=,*=,/=)
+- by using .toUpperCase() string return in capital letter
+- By usind .trim() we remove the space before and affer the string
 ## Variables
 - for declaring variable use var,let,const
 ## Conditional
@@ -16,5 +18,5 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - else statement is executing when if condition is fail
 - elseif clause consist many else if conditions 
 - Falsy values include false, 0, empty strings, null undefined, and NaN. All other values are truthy
-## Functions
+
 
