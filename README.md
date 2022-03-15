@@ -14,6 +14,8 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 ## Variables
 - for storing and holding the data
 - for declaring variable use var,let,const
+-Comparison operators, including <, >, <=, >=, ===, and !== can compare two values.
+-
 -  javascript supports arithmetic(+,-,*,/,%) and assignment operato(+=,-=,*=,/=)
 -  ++ is increment operator and -- is decrement operator
 -  + operator can be used to combine two string values even if those values are being stored in variables
@@ -25,6 +27,6 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - elseif clause consist many else if conditions 
 - Falsy values include false, 0, empty strings, null undefined, and NaN. All other values are truthy
 - we can use a ternary operator to simplify an if...else statement.We use expressions follow the ? and are separated by a colon :.
-- 
+- A switch statement can be used to simplify the process of writing multiple else if statements. The break keyword stops the remaining cases from being checked and executed in a switch statement.
 
 
