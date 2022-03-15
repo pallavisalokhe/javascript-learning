@@ -12,6 +12,7 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - by using .toUpperCase() string return in capital letter
 - By usind .trim() we remove the space before and affer the string
 ## Variables
+- for storing and holding the data
 - for declaring variable use var,let,const
 -  javascript supports arithmetic(+,-,*,/,%) and assignment operato(+=,-=,*=,/=)
 -  ++ is increment operator and -- is decrement operator
