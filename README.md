@@ -14,15 +14,14 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 ## Variables
 - for storing and holding the data
 - for declaring variable use var,let,const
--Comparison operators, including <, >, <=, >=, ===, and !== can compare two values.
--
+- Comparison operators, including <, >, <=, >=, ===, and !== can compare two values.
+- logical operator(OR=||,and=&&,not=!)
 -  javascript supports arithmetic(+,-,*,/,%) and assignment operato(+=,-=,*=,/=)
 -  ++ is increment operator and -- is decrement operator
 -  + operator can be used to combine two string values even if those values are being stored in variables
 -  The type of operator checks the value to its right and returns, or passes back, a string of the data type.
 ## Conditional
-- logical operator(OR=||,and=&&,not=!)
-- If statement is evaluate when condition is true otherwise it is not executing 
+-  If statement is evaluate when condition is true otherwise it is not executing 
 - else statement is executing when if condition is fail
 - elseif clause consist many else if conditions 
 - Falsy values include false, 0, empty strings, null undefined, and NaN. All other values are truthy
