@@ -31,5 +31,6 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - there are many way to create function. Functions can be passed one or more values and can return a value at the end of their execution. 
   - function declaration: It consist function keyword,Identifier,function body.
   - calling a function: When a function is called, the code inside its function body runs.We can call the same function as many times as needed.
+ - parameters and arguments:parameters are vaiables within function and The values that are passed to the function  called arguments.It can be values or variables.
 
 
