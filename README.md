@@ -40,5 +40,8 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
    :syntax=const variableName = function(paramGoesHere){
 };
 -Arrow function:Arrow functions remove the need to type out the keyword function every time you need to create a function.
-
+## scope
+## Array
+## Loop
+-
 
