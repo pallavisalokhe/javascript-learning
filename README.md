@@ -47,6 +47,8 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - Accessing Elements includes zero-indexed meaning the positions start counting from 0 rather than 1. Therefore, the first item in an array will be at position 0.
 - update element replace previous element to new element or value
 - by using .length we count the number of elements in array
+- .push() allows us to add elements to the end of an array.
+- .pop() removes the last elements of an array.
 ## Loop
 -
 
