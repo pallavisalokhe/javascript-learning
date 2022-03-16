@@ -28,7 +28,7 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - we can use a ternary operator to simplify an if...else statement.We use expressions follow the ? and are separated by a colon :.
 - A switch statement can be used to simplify the process of writing multiple else if statements. The break keyword stops the remaining cases from being checked and executed in a switch statement.
 ## Functions
-there are many way to create function
-  -function declaration: It consist function keyword,Identifier,function body.
+- there are many way to create function
+  --function declaration: It consist function keyword,Identifier,function body.
 
 
