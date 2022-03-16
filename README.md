@@ -33,5 +33,7 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
   - calling a function: When a function is called, the code inside its function body runs.We can call the same function as many times as needed.
  - parameters and arguments:parameters are vaiables within function and The values that are passed to the function  called arguments.It can be values or variables.
  - Default parameter:when an argument is not passed into a function it allow parameters to have a predetermined value .
+ - return
+ - Helper function:helper functions can help take large and difficult tasks and break them into smaller and more manageable tasks.
 
 
