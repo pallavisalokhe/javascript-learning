@@ -37,5 +37,8 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
  - Helper function:helper functions can help take large and difficult tasks and break them into smaller and more manageable tasks.
  - A function with no name is called an anonymous function. 
  - A function expression is often stored in a variable in order to refer to it.
+   -syntax=const variableName = function(paramGoesHere){
+};
+-
 
 
