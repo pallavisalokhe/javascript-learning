@@ -44,6 +44,9 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 ## Array
 - Array  used for making lists. Arrays can store any data types including strings, numbers, and booleans.
 - array that holds all the same data types or an array that holds different data types.using []  literal.
+- Accessing Elements includes zero-indexed meaning the positions start counting from 0 rather than 1. Therefore, the first item in an array will be at position 0.
+- update element replace previous element to new element or value
+- by using .length we count the number of elements in array
 ## Loop
 -
 
