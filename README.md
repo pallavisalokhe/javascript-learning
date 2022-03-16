@@ -35,5 +35,7 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
  - Default parameter:when an argument is not passed into a function it allow parameters to have a predetermined value .
  - return
  - Helper function:helper functions can help take large and difficult tasks and break them into smaller and more manageable tasks.
+ - A function with no name is called an anonymous function. 
+ - A function expression is often stored in a variable in order to refer to it.
 
 
