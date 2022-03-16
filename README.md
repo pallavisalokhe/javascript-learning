@@ -49,6 +49,8 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - by using .length we count the number of elements in array
 - .push() allows us to add elements to the end of an array.
 - .pop() removes the last elements of an array.
+- You can read about all of the array methods that exist on the Mozilla Developer Network (MDN) array documentation.Array method include.join(), .slice(), .splice(), .shift(), .unshift(), and .concat() 
+- .shift() is used to remove first elements in array,.unshift() used to add element in starting position,.slice() use to make a list elements into array element,By using .indexOf() we find the index number of element
 ## Loop
 -
 
