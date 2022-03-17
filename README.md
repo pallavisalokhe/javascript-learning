@@ -80,3 +80,4 @@ countString = countString + i;
 } while (i < 5);
  console.log(countString);
 ## Iterator
+- higher order function
