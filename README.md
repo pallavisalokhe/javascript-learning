@@ -57,14 +57,14 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - When we have a loop running inside another loop, we call that a nested loop.
 - Loops perform repetitive actions so we don’t have to code manually every time.
 - For Loop consist if the condition is true the code  will run, and if it evaluates to false the code will stop.
-   -syntax :for (let counter = 0; counter < 4; counter++)
+   --syntax :for (let counter = 0; counter < 4; counter++)
      -{
       - console.log(counter);
      -}
 - looping is reverse means  when printing for loop to 3, 2, 1 then we use this concept
 - each element in an array, a for loop should use the array’s .length property in its condition.
 - while Loop consist
-   -syntx:let counterTwo = 1;
+   --syntx:let counterTwo = 1;
       -while (counterTwo < 4) {
       -console.log(counterTwo);
       -counterTwo++;
