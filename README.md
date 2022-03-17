@@ -65,19 +65,18 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - each element in an array, a for loop should use the array’s .length property in its condition.
 - while Loop consist
  - syntx:let counterTwo = 1;
-   - while (counterTwo < 4) {
-   - console.log(counterTwo);
-   - counterTwo++;
-   - }
-   - Do while Loop 
---syntax:
----let countString = '';
----let i = 0;
+  while (counterTwo < 4) {
+    console.log(counterTwo);
+    counterTwo++;
+    }
+    Do while Loop 
+syntax:
+let countString = '';
+let i = 0;
  
----do {
----countString = countString + i;
----  i++;
----} while (i < 5);
- 
----console.log(countString);
+do {
+countString = countString + i;
+  i++;
+} while (i < 5);
+ console.log(countString);
 
