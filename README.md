@@ -69,4 +69,14 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
       -console.log(counterTwo);
       -counterTwo++;
  }
+ -Do while Loop 
+ --syntax:let countString = '';
+let i = 0;
+ 
+do {
+  countString = countString + i;
+  i++;
+} while (i < 5);
+ 
+console.log(countString);
 
