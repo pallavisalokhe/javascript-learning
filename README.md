@@ -53,5 +53,5 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - .shift() is used to remove first elements in array,.unshift() used to add element in starting position,.slice() use to make a list elements into array element,By using .indexOf() we find the index number of element
 - When an array contains another array it is known as a nested array.
 ## Loop
--
+- repeats a set of instructions until a specified condition
 
