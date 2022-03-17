@@ -64,19 +64,20 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - looping is reverse means  when printing for loop to 3, 2, 1 then we use this concept
 - each element in an array, a for loop should use the array’s .length property in its condition.
 - while Loop consist
-   -syntx:let counterTwo = 1;
-      -while (counterTwo < 4) {
-      -console.log(counterTwo);
-      -counterTwo++;
+--syntx:let counterTwo = 1;
+---while (counterTwo < 4) {
+---console.log(counterTwo);
+---counterTwo++;
  }
- -Do while Loop 
- --syntax:let countString = '';
-let i = 0;
+-Do while Loop 
+--syntax:
+---let countString = '';
+---let i = 0;
  
-do {
-  countString = countString + i;
-  i++;
-} while (i < 5);
+---do {
+---countString = countString + i;
+---  i++;
+---} while (i < 5);
  
-console.log(countString);
+---console.log(countString);
 
