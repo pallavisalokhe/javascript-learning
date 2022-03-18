@@ -43,6 +43,9 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 ## scope
 - Scope defines where variables can be accessed
 - In global scope, variables are declared outside of blocks.this variable called globle variable this variable are not inside of block
+- In a Block scope,variable which is inside the block it will be accessible.This variable is called local variable.the outside variable logs referenceError
+- Scope pollution is when we have  many global variables that exist in the global namespace.
+- Good scoping or tightly scoping:It makes your code more understandable and clear The blocks will organize your code into separate sections.
 ## Array
 - Array  used for making lists. Arrays can store any data types including strings, numbers, and booleans.
 - array that holds all the same data types or an array that holds different data types.using []  literal.
