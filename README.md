@@ -7,7 +7,7 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - for single line coomment use // and multiple line comment use /* */
 - there are seven fundamental data types:Number,string,Boolean,Null,undefined,symbol,object.The first 6 of those types are considered primitive data types. 
 -  javascript supports arithmetic operations(+,-,*,/,%) 
--  + operator can be used to combine two string values even if those values are being stored in variables
+-   + operator can be used to combine two string values even if those values are being stored in variables
 -  By using .length we count length of string
 -  by using .toUpperCase() method string return in capital letter and .startsWith() method check stating letter of string
 -  By usind .trim() we remove the space before and affer the string
