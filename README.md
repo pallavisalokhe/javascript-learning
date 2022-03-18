@@ -4,23 +4,30 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 
 ## Introduction to Javascript
 - console.log() used to print the message
-- math.random() used for print random value 0 to 0.99 not for 1
-- math.floor() print largest integer
-- Math.ceil()used for returns the smallest integer greater than or equal to a decimal number.
-- by using Number.isInteger() on the built-in Number object that checks if a number is an integer.
-- for single line use // and multiple line use /* */
-- by using .toUpperCase() string return in capital letter
-- By usind .trim() we remove the space before and affer the string
-## Variables
-- for storing and holding the data
-- for declaring variable use var,let,const
-- Comparison operators, including <, >, <=, >=, ===, and !== can compare two values.
-- logical operator(OR=||,and=&&,not=!)
--  javascript supports arithmetic(+,-,*,/,%) and assignment operato(+=,-=,*=,/=)
--  ++ is increment operator and -- is decrement operator
+- for single line coomment use // and multiple line comment use /* */
+- there are seven fundamental data types:Number,string,Boolean,Null,undefined,symbol,object.The first 6 of those types are considered primitive data types. 
+-  javascript supports arithmetic operations(+,-,*,/,%) 
 -  + operator can be used to combine two string values even if those values are being stored in variables
--  The type of operator checks the value to its right and returns, or passes back, a string of the data type.
+-  By using .length we count length of string
+-  by using .toUpperCase() method string return in capital letter and .startsWith() method check stating letter of string
+-  By usind .trim() we remove the space before and affer the string
+-  Math.random() used for print random value 0 to 0.99 not for 1
+-  Math.floor() print largest integer
+-  Math.ceil()used for returns the smallest integer greater than or equal to a decimal number.
+-  by using Number.isInteger() on the built-in Number object that checks if a number is an integer.
+## Variables
+-  Variables are used for storing and holding the data
+-  var, let, and const keywords to create variables.
+-   The let keyword signals that the variable can be reassigned a different value. If we don’t assign a value to a variable declared using the let keyword, it    automatically has a value of undefined.We can reassign the value of the variable.
+-  A const variable cannot be reassigned because it is constant.
+-  (+=,-=,*=,/=) are the assignment operators which replace arthmatic operator
+-  ++ is increment operator and -- is decrement operator
+-  String Concatenation with Variables:The + operator can be used to combine two string values even if those values are being stored in variables
+-  String Interpolation:When we interpolate `I own a pet ${myPet}.`, the output we print is the string: 'I own a pet armadillo.'used `${}` 
+-  The type of operator checks the value to its right and returns a string of the data type.
 ## Conditional
+-Comparison operators, including <, >, <=, >=, ===, and !== can compare two values.
+-  logical operator(OR=||,and=&&,not=!)
 -  If statement is evaluate when condition is true otherwise it is not executing 
 - else statement is executing when if condition is fail
 - elseif clause consist many else if conditions 
