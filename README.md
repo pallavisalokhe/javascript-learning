@@ -86,3 +86,4 @@ countString = countString + i;
 - - .forEach()is used for string data type of array.Inside () called as callbreak function 
 - - .map() is used for number data type of array
 - - .filter() is used for print only one data type element in array when array consist different data type
+- - .findIndex() is return the index(position) of element evaluates to true in the callback function.if it is not satisfied output is-1
