@@ -85,4 +85,4 @@ countString = countString + i;
 - there are different iterator method in array
 - - .forEach()is used for string data type of array
 - - .map() is used for number data type of array
-- -.filter() is used for print only one data type element in array when array consist different data type
+- - .filter() is used for print only one data type element in array when array consist different data type
