@@ -41,6 +41,8 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 };
 -Arrow function:Arrow functions remove the need to type out the keyword function every time you need to create a function.
 ## scope
+- Scope defines where variables can be accessed
+- In global scope, variables are declared outside of blocks.this variable called globle variable this variable are not inside of block
 ## Array
 - Array  used for making lists. Arrays can store any data types including strings, numbers, and booleans.
 - array that holds all the same data types or an array that holds different data types.using []  literal.
