@@ -26,13 +26,14 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 -  String Interpolation:When we interpolate `I own a pet ${myPet}.`, the output we print is the string: 'I own a pet armadillo.'used `${}` 
 -  The type of operator checks the value to its right and returns a string of the data type.
 ## Conditional
--Comparison operators, including <, >, <=, >=, ===, and !== can compare two values.
--  logical operator(OR=||,and=&&,not=!)
 - If statement is evaluate when condition is true otherwise it is not executing 
 - If else statement is executing when if condition is fail
 - elseif clause consist many else if conditions 
+- Comparison operators, including <, >, <=, >=, ===, and !== can compare two values.
+- logical operator(OR=||,and=&&,not=!) we will be using booleans, true or false values.
 - Falsy values include false, 0, empty strings, null undefined, and NaN. All other values are truthy
 - we can use a ternary operator to simplify an if...else statement.We use expressions follow the ? and are separated by a colon :.
+- The else if statement allows for more than two possible outcomes.
 - A switch statement can be used to simplify the process of writing multiple else if statements. The break keyword stops the remaining cases from being checked and executed in a switch statement.
 ## Functions
 - there are many way to create function. Functions can be passed one or more values and can return a value at the end of their execution. 
