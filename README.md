@@ -41,9 +41,11 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 };
 -Arrow function:Arrow functions remove the need to type out the keyword function every time you need to create a function.
 ## scope
-- Scope defines where variables can be accessed
-- In global scope, variables are declared outside of blocks.this variable called globle variable this variable are not inside of block
+- Scope defines where variables can be accessed It give idea about variable is accesible or not
+- Blocks are statements that exist in curly braces {}. 
+- In global scope variables are accessible to every part of the program. Global variables are declared outside of blocks.this variable are not inside of block
 - In a Block scope,variable which is inside the block it will be accessible.This variable is called local variable.the outside variable logs referenceError
+- Global namespace is the space in our code that contains globally scoped information.
 - Scope pollution is when we have  many global variables that exist in the global namespace.
 - Good scoping or tightly scoping:It makes your code more understandable and clear The blocks will organize your code into separate sections.
 ## Array
