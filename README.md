@@ -36,10 +36,11 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
 - The else if statement allows for more than two possible outcomes.
 - A switch statement can be used to simplify the process of writing multiple else if statements. The break keyword stops the remaining cases from being checked and executed in a switch statement.
 ## Functions
-- there are many way to create function. Functions can be passed one or more values and can return a value at the end of their execution. 
-  - function declaration: It consist function keyword,Identifier,function body.
+- Function is a block of code that used to groups together a sequence of statements to perform a specific task.
+-  there are many way to create function. Functions can be passed one or more values and can return a value at the end of their execution. 
+  - function declaration: It consist function keyword,Identifier,function body.this concept used for only declare the functions
   - calling a function: When a function is called, the code inside its function body runs.We can call the same function as many times as needed.
- - parameters and arguments:parameters are vaiables within function and The values that are passed to the function  called arguments.It can be values or variables.
+ - parameters and arguments:parameters are vaiables within function. parameters are writing in() space whin function is declare and  The values that are passed to the function  called arguments.It can be values or variables.arguments are writing() in calling a function.
  - Default parameter:when an argument is not passed into a function it allow parameters to have a predetermined value .
  - return
  - Helper function:helper functions can help take large and difficult tasks and break them into smaller and more manageable tasks.
