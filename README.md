@@ -42,14 +42,11 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
   - calling a function: When a function is called, the code inside its function body runs.We can call the same function as many times as needed.
  - parameters and arguments:parameters are vaiables within function. parameters are writing in() space whin function is declare and  The values that are passed to the function  called arguments.It can be values or variables.arguments are writing() in calling a function.
  - Default parameter:when an argument is not passed into a function it allow parameters to have a predetermined value .
- - return
- - Helper function:helper functions can help take large and difficult tasks and break them into smaller and more manageable tasks.
- - A function with no name is called an anonymous function. 
- - A function expression is often stored in a variable in order to refer to it.
-   :syntax=const variableName = function(paramGoesHere){
-};
--Arrow function:Arrow functions remove the need to type out the keyword function every time you need to create a function.
-## scope
+ - return:it allows functions to produce an output.To pass back information from the function call, we use a return statement.
+ - Helper function:helper functions can help take large and difficult tasks and break them into smaller and more manageable tasks.We can also use the return value of a function inside another function
+ - Function Expression:A function expression is often stored in a variable in order to refer to it.Ex., const plantNeedsWater=function(day).A function with no name is called an anonymous function. 
+ - Arrow function:It remove to writing function word every time only write () => {}.Ex:const rectangleArea = (width, height) => {  }
+  ## scope
 - Scope defines where variables can be accessed It give idea about variable is accesible or not
 - Blocks are statements that exist in curly braces {}. 
 - In global scope variables are accessible to every part of the program. Global variables are declared outside of blocks.this variable are not inside of block
