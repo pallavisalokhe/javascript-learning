@@ -102,3 +102,6 @@ countString = countString + i;
 - - .findIndex() is return the index(position) of element evaluates to true in the callback function.if it is not satisfied output is-1
 - - .reduce() method returns a single value after iterating through the elements of an array
 - Iteration Documents
+## Objects
+- Objects are variables too. But objects can contain many values.components of the language are actually objects under the hood
+- 
