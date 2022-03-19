@@ -46,9 +46,6 @@ From codecademy: https://www.codecademy.com/learn/introduction-to-javascript
  - Helper function:helper functions can help take large and difficult tasks and break them into smaller and more manageable tasks.We can also use the return value of a function inside another function
  - Function Expression:A function expression is often stored in a variable in order to refer to it.Ex., const plantNeedsWater=function(day).A function with no name is called an anonymous function. 
  - Arrow function:It remove to writing function word every time only write () => {}.Ex:const rectangleArea = (width, height) => {  }
- - Function definition can be made concise using concise arrow notation:
-
-comparing single line and multiline arrow functions
   ## scope
 - Scope defines where variables can be accessed It give idea about variable is accesible or not
 - Blocks are statements that exist in curly braces {}. 
