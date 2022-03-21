@@ -104,10 +104,8 @@ countString = countString + i;
 - Iteration Documents
 ## Objects
 - Objects are variables too. But objects can contain many values.components of the language are actually objects under the hood
-- a
 - Method:when data stored in on an object is a function called that a method For example console is a global javascript object and .log() is a method on that object. 
 - Nested Object: an object might have another object 
-- a
 - The this keyword references the calling object which provides access to the calling object’s properties. 
 - Getters can perform an action on the data when getting a property.Getters can return different values using conditionals.
 
